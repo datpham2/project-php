@@ -63,7 +63,7 @@
               </li>
             </ul>
             <div class="user_option-box">
-              <a href="">
+              <a href="{{route('register')}}">
                 <i class="fa fa-user" aria-hidden="true"></i>
               </a>
               <a href="">
